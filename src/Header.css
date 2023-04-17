@@ -1,0 +1,54 @@
+.header{
+    width: 100%;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: white;
+}
+
+.header__left{
+    width: 20px;
+    height: 20px;
+    padding: 5px;
+    border-radius: 30px;
+    margin-left: 0px;
+}
+
+.header.App-header{
+    position: fixed;
+    margin: 0
+}
+
+header.App-logo{
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+    
+    
+
+.header__left2 >h2{
+    font-size: 20px;
+    color: black;
+    text-align: left;
+    align-items: left;
+    margin-left: -300px;
+}
+
+.header__right{
+    display: flex;
+    margin-left: auto;
+    padding-right: 20px;
+    height: 30px;
+    width: 60px;
+ 
+}
+
+/*.header__right{
+    padding: 10px;
+    margin-right:  10px;
+    text-align: right;
+}*/
